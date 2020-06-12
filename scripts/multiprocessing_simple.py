@@ -73,7 +73,18 @@ if __name__ == "__main__":
     # this function
     print("About to start:")
 
+
+    # Note, the "with" statement basically is the same as
+    # saying   pool = Pool(processes = n_proc), but is useful
+    # because it automatically cleans up the 'pool' object
+    # at the end of the code block.
+
     with Pool(processes = n_proc) as pool:
-        pool.map(function_to_run, values)
+
+        # for demonstration purposes, lets loop over
+        # calls to this function a few times:
+        for i in [1,2,3]:
+            pool.map(function_to_run, values * i)
+            print("------------")
 
     print("All done!")
