@@ -1,0 +1,16 @@
+
+         MENU
+
+FOOD
+Pad Thai	$10
+Burger	$12
+Chickpea Salad	$8
+Hot dog	$5
+Taco pie	$6.50
+
+DRINKS
+Bubble tea	$4.50
+Espresso	$1.50
+7up	$2
+
+       ENJOY!

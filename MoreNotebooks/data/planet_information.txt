@@ -1,0 +1,11 @@
+This file contains information about the distance between planets and the Sun in the Solar system.
+Planet	Distance to Sun
+[-]	[AU]
+Mercury	0.4
+Venus	0.7
+Earth	1.
+Mars	1.5
+Jupiter	5.2
+Saturn	9.5
+Uranus	19.8
+Neptune	30.
