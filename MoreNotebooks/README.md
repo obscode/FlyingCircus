@@ -9,9 +9,10 @@ Here is a brief synopsis of each:
 * AstropySmorgasbord.ipynb: A notebook that shows all kinds of useful
   astro-related tasks using the astropy package.
 
-* ModelFitting:  A filder with 3 notebooks on fitting models in various
+* ModelFitting:  A folder with 3 notebooks on fitting models in various
   ways.
 
 * Skyfit.ipynb: fit real data of sky background levels and try to model the 
-  contribution from the moon. Uses scipy to fit the model and bokeh to
-  visualize the multi-dimensional data set.
+  contribution from the moon. Uses scipy to fit the model, astropy to compute
+  lots of celestial coordinates, and bokeh to visualize the multi-dimensional,
+  data set.
