@@ -5,7 +5,7 @@ the same problem:  fitting an emission line and background, but uses
 3 different methods. I've also added a notebook about fitting data with
 errors in both axes.
 
-* NNLS.ipynb:  Start here. This notebook creates a fake emission line plus
+* NLLS.ipynb:  Start here. This notebook creates a fake emission line plus
   noise and fits it with ``scipy.optimize.fit_curve``. It also discusses
   how to visuallize the covariances in the parameters.
 
