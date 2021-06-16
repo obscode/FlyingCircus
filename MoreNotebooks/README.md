@@ -8,6 +8,9 @@ Here is a brief synopsis of each:
 
 * AstropySmorgasbord.ipynb: A notebook that shows all kinds of useful
   astro-related tasks using the astropy package.
+  
+* Vectorizing.ipynb:  Here you'll find some tips/tricks for making your
+  python code more efficient.
 
 * ModelFitting:  A folder with 3 notebooks on fitting models in various
   ways.
