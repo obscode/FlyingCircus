@@ -1,6 +1,7 @@
 # The Flying Circus
 
 Authors:  Chris Burns and Shannon Patel (Carnegie Observatories)
+
 Contributors:  Ylva Goetberg, Greg Walth, Mahdi Qezlou, 
 
 This repository contains jupyter notebooks used for the introductory python sessions
@@ -11,10 +12,10 @@ The notebooks make reference to the data files that are also located in this rep
 Along with the two primary notebooks (IntroToPython and Visualization), 
 there are also some extra notebooks that showcase more advanced topics, including:
 
- o Vectorizing code
- o Debugging
- o Model fitting
- o Bayesian inference and Markov Chain Monte Carlo. 
+ - Vectorizing code
+ - Debugging
+ - Model fitting
+ - Bayesian inference and Markov Chain Monte Carlo. 
  
 These are located in the MoreNotebooks folder.
 
