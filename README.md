@@ -1,13 +1,22 @@
 # The Flying Circus
 
 Authors:  Chris Burns and Shannon Patel (Carnegie Observatories)
+Contributors:  Ylva Goetberg, Greg Walth, Mahdi Qezlou, 
 
-Just a safe place to put our ipython notebook tutorials for the summer python
-sessions held at the Carnegie Observatories.
+This repository contains jupyter notebooks used for the introductory python sessions
+held each summer for the [Carnegie Astrophysics Summer Student Internship (CASSI)]
+(https://obs.carnegiescience.edu/CASSI) program.
 
 The notebooks make reference to the data files that are also located in this repository.
-There are also some extra notebooks that can be useful for seeing how to do
-stuff. These are located in the MoreNotebooks folder.
+Along with the two primary notebooks (IntroToPython and Visualization), 
+there are also some extra notebooks that showcase more advanced topics, including:
+
+ o Vectorizing code
+ o Debugging
+ o Model fitting
+ o Bayesian inference and Markov Chain Monte Carlo. 
+ 
+These are located in the MoreNotebooks folder.
 
 To download this repository to your computer, run:
 
