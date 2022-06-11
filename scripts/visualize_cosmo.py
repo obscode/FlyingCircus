@@ -26,6 +26,8 @@ and the "cosmic jerk" now is also needed to fit, so the ellipses no
 longer follow a slope of 1/2.'''
 
 
+import matplotlib
+matplotlib.use('TkAgg')
 from matplotlib import pyplot as plt
 from numpy import *   # Don't judge me!
 from matplotlib import rcParams
@@ -95,6 +97,7 @@ def bind_release(event):
 
 
 ###  Main part of the script.
+
 
 # The Omega_m, Omega_L plot
 fig1 = plt.figure(figsize=(6,8))
