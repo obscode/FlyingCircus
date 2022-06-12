@@ -7,7 +7,7 @@ errors in both axes.
 
 * NLLS.ipynb:  Start here. This notebook creates a fake emission line plus
   noise and fits it with ``scipy.optimize.fit_curve``. It then discusses
-  how to visuallize the covariances in the parameters. Finally it presents
+  how to visuallize the covariances in the parameters. Finally it 
   shows the same fitting using `astropy.modeling`.
 
 * Emcee.ipynb:  Fit the same spectral line with Markov Chain Monte Carlo (MCMC),
