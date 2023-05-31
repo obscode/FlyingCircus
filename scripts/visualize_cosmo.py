@@ -18,6 +18,7 @@ of the confidence ellipsoids. Usually we think of SN Ia data as
 constraining the deceleration, so the value of q_0:
    
    q_0 = 0.5(Omega_m - 2*Omega_l)
+   --> Omega_l = 0.5*Omega_m - q_0
    
 and so in an Omega_l vs Omega_m space, the major axis of the ellipses
 should have roughly a a slope of 1/2. But that's only true at low-z,
