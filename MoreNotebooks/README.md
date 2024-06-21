@@ -13,7 +13,7 @@ Here is a brief synopsis of each:
   convert them to stand-alone scripts, which may be more useful for HPC
   computing.
 
-* MPI_parallel.ipynb:  How to work with parallel processing in python, a powerful
+* MPI:  How to work with parallel processing in python, a powerful
   way to reduce run-time of certain kinds of algorithms on HPC resources.
 
 * ModelFitting:  A folder with 3 notebooks that demonstrate fitting models in
