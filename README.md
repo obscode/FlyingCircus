@@ -2,7 +2,7 @@
 
 Authors:  Chris Burns and Shannon Patel (Carnegie Observatories)
 
-Contributors:  Ylva Goetberg, Greg Walth, Mahdi Qezlou, 
+Contributors:  Ylva Goetberg, Greg Walth, Mahdi Qezlou, Ana Haynie, and Mike Grudic
 
 This repository contains jupyter notebooks used for the introductory python sessions
 held each summer for the [Carnegie Astrophysics Summer Student Internship (CASSI)](https://obs.carnegiescience.edu/CASSI) program.
